@@ -17,7 +17,8 @@ Thanks.
 # Explain
 
 I explained this code in Japanese.
-https://vaaaaaanquish.hatenablog.com/entry/2017/12/25/183927
+- https://vaaaaaanquish.hatenablog.com/entry/2018/11/23/000120
+- https://vaaaaaanquish.hatenablog.com/entry/2017/12/25/183927
 
 # Thanks
 
